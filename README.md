@@ -1,6 +1,6 @@
 # FAST Graphical Library
 
-This project suppose to be the fastest griphics library.
+This project suppose to be the fastest CPU griphics library.
 
 ## How to install
 
